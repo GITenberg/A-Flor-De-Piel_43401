@@ -1,0 +1,31 @@
+_repo: A-Flor-De-Piel_43401
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43401-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sánchez Galarraga, Gustavo
+    aliases:
+    - Galarraga, Gustavo Sánchez
+    - Sanchez Galarraga, Gustavo
+    - Galarraga, Gustavo Sánchez de
+    - De Galarraga, Gustavo Sánchez
+    deathdate: 1934
+    gutenberg_agent_id: '42183'
+    url: http://www.gutenberg.org/2009/agents/42183
+description: ''
+gutenberg_issued: '2013-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43401'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maxims'
+- !lcsh 'Philosophy'
+- !lcc 'PQ'
+title: 'A Flor De Piel: Frases'
+url: http://www.gutenberg.org/ebooks/43401
